@@ -1,0 +1,14 @@
+D:\Practice\ITCGroup\practices\FirstWebAPI\FirstWebAPI.Business\bin\Debug\net6.0\FirstWebAPI.Business.deps.json
+D:\Practice\ITCGroup\practices\FirstWebAPI\FirstWebAPI.Business\bin\Debug\net6.0\FirstWebAPI.Business.dll
+D:\Practice\ITCGroup\practices\FirstWebAPI\FirstWebAPI.Business\bin\Debug\net6.0\FirstWebAPI.Business.pdb
+D:\Practice\ITCGroup\practices\FirstWebAPI\FirstWebAPI.Business\obj\Debug\net6.0\FirstWebAPI.Business.csproj.AssemblyReference.cache
+D:\Practice\ITCGroup\practices\FirstWebAPI\FirstWebAPI.Business\obj\Debug\net6.0\FirstWebAPI.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\ITCGroup\practices\FirstWebAPI\FirstWebAPI.Business\obj\Debug\net6.0\FirstWebAPI.Business.AssemblyInfoInputs.cache
+D:\Practice\ITCGroup\practices\FirstWebAPI\FirstWebAPI.Business\obj\Debug\net6.0\FirstWebAPI.Business.AssemblyInfo.cs
+D:\Practice\ITCGroup\practices\FirstWebAPI\FirstWebAPI.Business\obj\Debug\net6.0\FirstWebAPI.Business.csproj.CoreCompileInputs.cache
+D:\Practice\ITCGroup\practices\FirstWebAPI\FirstWebAPI.Business\obj\Debug\net6.0\FirstWebAPI.Business.dll
+D:\Practice\ITCGroup\practices\FirstWebAPI\FirstWebAPI.Business\obj\Debug\net6.0\refint\FirstWebAPI.Business.dll
+D:\Practice\ITCGroup\practices\FirstWebAPI\FirstWebAPI.Business\obj\Debug\net6.0\FirstWebAPI.Business.pdb
+D:\Practice\ITCGroup\practices\FirstWebAPI\FirstWebAPI.Business\obj\Debug\net6.0\ref\FirstWebAPI.Business.dll
+D:\Practice\ITCGroup\practices\FirstWebAPI\FirstWebAPI.Business\bin\Debug\net6.0\FirstWebAPI.Business.runtimeconfig.json
+D:\Practice\ITCGroup\practices\FirstWebAPI\FirstWebAPI.Business\obj\Debug\net6.0\FirstWebAPI.Business.genruntimeconfig.cache
